@@ -1,4 +1,4 @@
-# LibreLingo Basque course for English speakers
+# LibreLingo Abkhazian course for Russian speakers
 
 ## Documentation
 
